@@ -1,0 +1,3 @@
+# robots.txt for ELARA - E-Learning Adaptive Resource Assistant
+User-agent: *
+Disallow:
